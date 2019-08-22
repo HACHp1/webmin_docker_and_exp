@@ -1,3 +1,5 @@
+# Author: https://github.com/HACHp1
+
 import requests
 import re
 
